@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-14T10:01:31.218Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="Y7v0V5zFfqggDlfU8SQV" version="23.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-14T10:05:27.499Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:122.0) Gecko/20100101 Firefox/122.0" etag="I2HFwVS_1xRwP34tLHXG" version="23.1.4" type="github">
   <diagram name="Page-1" id="dE6yGRrycPSdIeFdvO5s">
-    <mxGraphModel dx="1820" dy="1249" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1737" dy="1145" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,10 +14,10 @@
           <mxGeometry x="-735" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hkPZR-MXZNHqxhCfoVSz-3" value="Other logical metadata sources" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-720" y="460" width="110" height="50" as="geometry" />
+          <mxGeometry x="-720" y="460" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="hkPZR-MXZNHqxhCfoVSz-8" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=default;shadow=1;" parent="1" vertex="1">
-          <mxGeometry x="-735" y="260" width="120" height="150" as="geometry" />
+          <mxGeometry x="-735" y="260" width="115" height="150" as="geometry" />
         </mxCell>
         <mxCell id="hkPZR-MXZNHqxhCfoVSz-4" value="Git" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.git_repository;" parent="1" vertex="1">
           <mxGeometry x="-700" y="280" width="50" height="50" as="geometry" />
@@ -88,10 +88,36 @@
           <mxGeometry x="-510" y="500" width="290" height="250" as="geometry" />
         </mxCell>
         <mxCell id="uKNiGlANXCOoaX_LWEY7-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-430" y="544.2" width="140" height="60" as="geometry" />
+          <mxGeometry x="-394" y="545.8000000000001" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uKNiGlANXCOoaX_LWEY7-1" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://upload.wikimedia.org/wikipedia/en/e/ef/Alation%2C_Inc._logo.png;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="548.4" width="152" height="51.6" as="geometry" />
+          <mxGeometry x="-400" y="550" width="152" height="51.6" as="geometry" />
+        </mxCell>
+        <mxCell id="uKNiGlANXCOoaX_LWEY7-4" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="-490" y="550" width="22.5" height="21.6" as="geometry" />
+        </mxCell>
+        <mxCell id="uKNiGlANXCOoaX_LWEY7-5" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;prIcon=api" vertex="1" parent="1">
+          <mxGeometry x="-490" y="648.4" width="22.5" height="21.6" as="geometry" />
+        </mxCell>
+        <mxCell id="uKNiGlANXCOoaX_LWEY7-6" value="API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="644.2" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uKNiGlANXCOoaX_LWEY7-7" value="API" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-480" y="545.8000000000001" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="uKNiGlANXCOoaX_LWEY7-8" value="Physical metadata" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=0.441;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hkPZR-MXZNHqxhCfoVSz-8" target="uKNiGlANXCOoaX_LWEY7-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKNiGlANXCOoaX_LWEY7-10" value="Business Metadata" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.356;entryY=0.756;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hkPZR-MXZNHqxhCfoVSz-10" target="uKNiGlANXCOoaX_LWEY7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uKNiGlANXCOoaX_LWEY7-11" value="Mappings between logical to physical, business to logical" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.433;entryY=0.756;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="hkPZR-MXZNHqxhCfoVSz-12" target="uKNiGlANXCOoaX_LWEY7-5">
+          <mxGeometry x="0.4181" y="-20" relative="1" as="geometry">
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uKNiGlANXCOoaX_LWEY7-9" value="Logical metadata" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hkPZR-MXZNHqxhCfoVSz-3" target="uKNiGlANXCOoaX_LWEY7-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
